@@ -1,0 +1,67 @@
+# Ask & Verify Demo Queries
+
+## Basic
+
+What is SerpApi used for?
+
+---
+
+## Current information
+
+What are the latest developments in India's semiconductor industry?
+
+---
+
+## Follow-up
+
+What is India's Semiconductor Mission?
+
+How much government funding has been allocated to it?
+
+Who are the major companies involved?
+
+---
+
+## Comparison
+
+Compare India's semiconductor ecosystem with Taiwan's.
+
+---
+
+## Verification
+
+What is the current market size of generative AI?
+
+---
+
+## Contradictory evidence
+
+Find different estimates for the current AI market size and explain why they differ.
+
+---
+
+## Complex research
+
+Should India prioritize semiconductor manufacturing or semiconductor design?
+
+Consider:
+
+- government policy
+- investment
+- employment
+- existing ecosystem
+- global competitiveness
+- major companies
+- current developments
+
+---
+
+## Challenge mode
+
+Ask:
+
+What are the latest developments in India's semiconductor industry?
+
+Then:
+
+/challenge
